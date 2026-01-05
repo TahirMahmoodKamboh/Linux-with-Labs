@@ -1,0 +1,385 @@
+Quiz Questions / MCQs (Module 1)
+Multiple Choice Questions
+
+**Q1. What is the primary role of an Operating System?**
+A. Compile programs
+B. Manage hardware and software resources
+C. Store user data
+D. Provide internet access
+
+Correct Answer: B
+
+**Q2. Linux is best described as:**
+A. A complete operating system only
+B. A proprietary operating system
+C. A kernel used with GNU tools
+D. A desktop environment
+
+Correct Answer: C
+
+**Q3. Who developed the Linux kernel?**
+A. Richard Stallman
+B. Dennis Ritchie
+C. Linus Torvalds
+D. Ken Thompson
+
+Correct Answer: C
+
+**Q4. Which license requires derivative works to remain open source?**
+A. MIT
+B. Apache
+C. BSD
+D. GPL
+
+Correct Answer: D
+
+**Q5. Which Linux distribution is commonly used for beginners and servers?**
+A. Arch Linux
+B. Ubuntu
+C. Gentoo
+D. Slackware
+
+Correct Answer: B
+
+**Q6. Which operating system is most widely used on cloud platforms?**
+A. Windows
+B. macOS
+C. Linux
+D. UNIX
+
+Correct Answer: C
+
+**Q7. Which component directly interacts with hardware?**
+A. Shell
+B. Applications
+C. Kernel
+D. System libraries
+
+Correct Answer: C
+
+**Q8. What does CLI stand for?**
+A. Common Linux Interface
+B. Command Line Interface
+C. Core Linux Interpreter
+D. Central Login Interface
+
+Correct Answer: B
+
+**Q9. Which is NOT a characteristic of Linux?**
+A. Open source
+B. Multi-user
+C. Single-tasking
+D. Secure
+
+Correct Answer: C
+
+**Q10. A Linux distribution includes:**
+A. Kernel only
+B. Kernel and hardware drivers only
+C. Kernel, tools, and package manager
+D. GUI only
+
+Correct Answer: C
+
+Below are the **same 30 MCQs**, **renumbered to start from Q11**, ready to replace the previous numbering in your `.md` file.
+**No content has been changed—only numbering.**
+
+---
+
+**Q11. Which layer of Linux directly communicates with hardware?**
+A. Shell
+B. Applications
+C. Kernel
+D. File system
+
+**Correct Answer:** C
+
+---
+
+**Q12. Linux was originally developed for which architecture?**
+A. ARM
+B. x86
+C. PowerPC
+D. SPARC
+
+**Correct Answer:** B
+
+---
+
+**Q13. Which term best describes Linux’s ability to support multiple users simultaneously?**
+A. Multithreading
+B. Multi-processing
+C. Multi-user
+D. Multi-core
+
+**Correct Answer:** C
+
+---
+
+**Q14. What does GNU stand for?**
+A. General Network Utility
+B. GNU’s Not Unix
+C. Global Network Unix
+D. Graphical Network Utility
+
+**Correct Answer:** B
+
+---
+
+**Q15. Which component interprets user commands in Linux?**
+A. Kernel
+B. Shell
+C. Compiler
+D. Loader
+
+**Correct Answer:** B
+
+---
+
+**Q16. Which Linux feature allows multiple tasks to run at the same time?**
+A. Multi-user
+B. Multi-session
+C. Multitasking
+D. Multi-login
+
+**Correct Answer:** C
+
+---
+
+**Q17. Which of the following is NOT a Linux distribution?**
+A. Ubuntu
+B. Fedora
+C. Windows Server
+D. Debian
+
+**Correct Answer:** C
+
+---
+
+**Q18. Which Linux distribution is closely related to Red Hat Enterprise Linux (RHEL)?**
+A. Ubuntu
+B. Arch Linux
+C. Rocky Linux
+D. Linux Mint
+
+**Correct Answer:** C
+
+---
+
+**Q19. Which license allows software to be used, modified, and sold with minimal restrictions?**
+A. GPL
+B. Apache
+C. MIT
+D. AGPL
+
+**Correct Answer:** C
+
+---
+
+**Q20. Which Linux use case dominates cloud computing platforms?**
+A. Gaming
+B. Desktop publishing
+C. Server workloads
+D. Multimedia editing
+
+**Correct Answer:** C
+
+---
+
+**Q21. Which interface is preferred for remote server management?**
+A. GUI
+B. Touch interface
+C. CLI
+D. Voice interface
+
+**Correct Answer:** C
+
+---
+
+**Q22. Why do most production Linux servers avoid GUI installation?**
+A. GUI is insecure
+B. GUI consumes system resources
+C. GUI is not supported
+D. GUI blocks networking
+
+**Correct Answer:** B
+
+---
+
+**Q23. Which organization maintains the Linux kernel?**
+A. GNU Foundation
+B. Apache Foundation
+C. Linux Foundation
+D. Red Hat
+
+**Correct Answer:** C
+
+---
+
+**Q24. Which statement about Linux is TRUE?**
+A. Linux is owned by Microsoft
+B. Linux is single-user
+C. Linux is open source
+D. Linux requires GUI
+
+**Correct Answer:** C
+
+---
+
+**Q25. Which component provides system calls to applications?**
+A. Shell
+B. Kernel
+C. Desktop Environment
+D. BIOS
+
+**Correct Answer:** B
+
+---
+
+**Q26. Which Linux feature improves security by separating users?**
+A. Multitasking
+B. Multi-user design
+C. Multithreading
+D. Multi-core support
+
+**Correct Answer:** B
+
+---
+
+**Q27. Which Linux distribution is known for bleeding-edge updates?**
+A. Debian
+B. Ubuntu LTS
+C. Arch Linux
+D. Rocky Linux
+
+**Correct Answer:** C
+
+---
+
+**Q28. What is the primary reason Linux is widely used in DevOps?**
+A. Attractive GUI
+B. Strong CLI and automation
+C. Gaming support
+D. Office applications
+
+**Correct Answer:** B
+
+---
+
+**Q29. Which of the following best defines a Linux distribution?**
+A. Kernel only
+B. Kernel with user-space tools
+C. Desktop environment
+D. Bootloader
+
+**Correct Answer:** B
+
+---
+
+**Q30. Which of these is an example of a desktop environment?**
+A. Bash
+B. GNOME
+C. Kernel
+D. systemd
+
+**Correct Answer:** B
+
+---
+
+**Q31. Linux follows which operating system philosophy?**
+A. Windows NT
+B. Monolithic
+C. UNIX
+D. Microkernel-only
+
+**Correct Answer:** C
+
+---
+
+**Q32. Which file system concept is essential to Linux architecture?**
+A. Drive letters
+B. Registry
+C. Single-root directory (/)
+D. Task Manager
+
+**Correct Answer:** C
+
+---
+
+**Q33. What makes Linux highly customizable?**
+A. Closed development
+B. Vendor restrictions
+C. Open source nature
+D. GUI dependency
+
+**Correct Answer:** C
+
+---
+
+**Q34. Which job role MOST requires Linux knowledge?**
+A. Graphic Designer
+B. DevOps Engineer
+C. Data Entry Operator
+D. Video Editor
+
+**Correct Answer:** B
+
+---
+
+**Q35. Which term refers to text-based system interaction?**
+A. GUI
+B. CLI
+C. API
+D. SDK
+
+**Correct Answer:** B
+
+---
+
+**Q36. Which Linux feature improves system reliability?**
+A. Frequent reboots
+B. Monolithic design
+C. Stability and long uptimes
+D. Closed source
+
+**Correct Answer:** C
+
+---
+
+**Q37. Which Linux license ensures derivative works remain open source?**
+A. MIT
+B. BSD
+C. Apache
+D. GPL
+
+**Correct Answer:** D
+
+---
+
+**Q38. Linux is MOST commonly used in which environment?**
+A. Home gaming PCs
+B. Cloud data centers
+C. Desktop publishing
+D. Offline kiosks
+
+**Correct Answer:** B
+
+---
+
+**Q39. Which skill is MOST reinforced by learning Linux?**
+A. Manual clicking
+B. Automation and scripting
+C. Graphic design
+D. Gaming optimization
+
+**Correct Answer:** B
+
+---
+
+**Q40. RHCSA and LPIC certifications focus primarily on:**
+A. GUI tools
+B. Conceptual Linux understanding
+C. Practical CLI skills
+D. Desktop customization
+
+**Correct Answer:** C
